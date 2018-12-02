@@ -1,0 +1,7 @@
+.cache
+dist
+node_modules
+.idea
+.idea/
+.idea/misc.xml
+.idea/vcs.xml

@@ -1,0 +1,20 @@
+{
+    "projectName": "mapquiz",
+    "projectPath": "/Users/patrickclover/Development/map-quiz",
+    "defaultEditor": "none",
+    "frontendHandler": {
+        "javascript": "/usr/local/lib/node_modules/@aws-amplify/cli/node_modules/amplify-frontend-javascript"
+    },
+    "javascript": {
+        "framework": "react",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "dist",
+            "BuildCommand": "yarn build",
+            "StartCommand": "yarn dev"
+        }
+    },
+    "providers": {
+        "awscloudformation": "/usr/local/lib/node_modules/@aws-amplify/cli/node_modules/amplify-provider-awscloudformation"
+    }
+}
